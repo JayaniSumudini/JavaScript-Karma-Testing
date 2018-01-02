@@ -1,0 +1,27 @@
+{
+  "name": "javascript-karma-testing",
+  "version": "1.0.0",
+  "description": "this is a basic project to learn Java Script Karma testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayaniSumudini/JavaScript-Karma-Testing.git"
+  },
+  "author": "Jayani Sumudini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayaniSumudini/JavaScript-Karma-Testing/issues"
+  },
+  "homepage": "https://github.com/JayaniSumudini/JavaScript-Karma-Testing#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.8.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7"
+  }
+}
